@@ -3,9 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    
 
-# THANKS
+Wendell
+
 
     <name>
 
