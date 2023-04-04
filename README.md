@@ -7,3 +7,6 @@ As stated above the main purpose is to show git features.
 ## Deployment 
 This is a simple project, deployment ca be on any web server even local file system
 ## How to contribute
+
+## Copyright
+Adding notice of copy 
